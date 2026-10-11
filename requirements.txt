@@ -1,0 +1,6 @@
+MDAnalysis>=2.7
+MDAnalysisTests>=2.7
+numpy
+pandas
+matplotlib
+pytest
